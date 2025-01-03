@@ -6,7 +6,7 @@
 *.wast
 *.wast.hpp
 *.dot
-*.abi.hpp
+*.abi.hpp9089
 *.ninja
 \#*
 \.#*
